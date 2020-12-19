@@ -1,0 +1,16 @@
+body {
+    text-align:center;
+    background-color:aquamarine;
+    color:white;
+}
+img {
+    height:50%;
+    width:50%;
+}
+.sp {
+    justify-content: center;
+}
+.lni {
+    display:flex;
+    justify-content:center;
+}
